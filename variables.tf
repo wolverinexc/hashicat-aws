@@ -7,7 +7,10 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
+<<<<<<< HEAD
   default = "rsmith"
+=======
+>>>>>>> 75a1249360420c8626fc23db566c2101c4279c63
 }
 
 variable "region" {
